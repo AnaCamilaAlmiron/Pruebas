@@ -1,3 +1,3 @@
 
 
-print("esta es una prus
+print("esta es una prueba")
